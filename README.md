@@ -10,7 +10,7 @@ Práctica de publicación de un proyecto a Github
 
 **Titulo** : Práctica 6
 
-**Web:**   https://github.com/DevonGV/Practica-6
+**Web:**   https://devongv.github.io/Practica-6/
 
 **Autor:**  Devon David García Villegas
 
